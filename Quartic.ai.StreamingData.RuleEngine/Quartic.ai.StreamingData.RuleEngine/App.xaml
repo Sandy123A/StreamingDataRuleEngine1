@@ -1,0 +1,9 @@
+﻿<Application x:Class="Quartic.ai.StreamingData.RuleEngine.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Quartic.ai.StreamingData.RuleEngine"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
